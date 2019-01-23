@@ -4,7 +4,7 @@
 * YOLO<br>
 ![YOLOv1架构图](https://github.com/hyhouyong/Object_Dection_Paper/blob/master/yolo1/yolo_1.png)
 * YOLO9000<br>
-![](https://github.com/hyhouyong/Object_Dection_Paper/blob/master/yolo2/yolo2_1.png)
+![](https://github.com/hyhouyong/Object_Dection_Paper/blob/master/yolo2/yolo2_2.png)
 * YOLOV3<br>
 ![](https://github.com/hyhouyong/Object_Dection_Paper/blob/master/yolo3/yolo3_3.png)  
 ### R-CNN系列
