@@ -19,4 +19,5 @@
 ![](https://github.com/hyhouyong/Object_Dection_Paper/blob/master/SSD/SSD_1.png)
 
 ### Mask_R-CNN
-* Mak_R-CNN
+* Mak_R-CNN<br>
+![](https://github.com/hyhouyong/Object_Dection_Paper/blob/master/Mask_R-CNN/MASK_2.png)
